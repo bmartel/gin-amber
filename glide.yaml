@@ -1,0 +1,6 @@
+package: github.com/bmartel/gin-amber
+import:
+- package: github.com/gin-gonic/gin
+  subpackages:
+  - render
+- package: github.com/eknkc/amber

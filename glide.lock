@@ -1,0 +1,14 @@
+hash: 3d487fc9d77ce7c36d16304af4c6c8b0e7952db983a6b763f05cf1e683cbf309
+updated: 2016-07-01T20:47:36.511513387-05:00
+imports:
+- name: github.com/eknkc/amber
+  version: 91774f050c1453128146169b626489e60108ec03
+  subpackages:
+  - parser
+- name: github.com/gin-gonic/gin
+  version: f931d1ea80ae95a6fc739213cdd9399bd2967fb6
+  subpackages:
+  - render
+- name: gopkg.in/yaml.v2
+  version: a83829b6f1293c91addabc89d0571c246397bbf4
+devImports: []
